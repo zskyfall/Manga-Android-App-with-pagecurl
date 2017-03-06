@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:title="ĐỌC TRUYỆN"
+            android:id="@+id/read"
+            android:icon="@drawable/ic_airplay_black_24dp"/>
+        <item android:title="TÁC GIẢ"
+            android:id="@+id/author"
+            android:icon="@drawable/ic_face_black_24dp"/>
+</menu>
